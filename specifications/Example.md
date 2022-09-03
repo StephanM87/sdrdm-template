@@ -41,7 +41,7 @@ This is the root of the data model and contains all objects defined in this exam
 
 - __description*__
   - Type: string
-  - Description: Describes the content of the dataset.I super innovative an cool
+  - Description: Describes the content of the dataset.I super innovative an cool and fancy
   - Dataverse: pyDaRUS.Citation.description.text
 - __title*__
   - Type: string
